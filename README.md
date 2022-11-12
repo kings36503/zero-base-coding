@@ -74,3 +74,4 @@ After learning Python and data structures, try the following Leetcode questions 
 If the above 11 questions can be done correctly, or can be understood correctly after reading the answer, and can be answered correctly after turning off the answer—congratulations, you have the potential and qualifications for coding, and you can formally and seriously consider coding from zero basis ( Start to apply for a master's program, and start to systematically learn all the basic courses of Computer Science from scratch)!
 
 
+Copy and tanslate from https://github.com/lidangzzz/How-to-run
